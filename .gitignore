@@ -1,0 +1,33 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore CSV exports, raw data, or temporary files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+
+# Ignore image outputs and animations (re-generated on run)
+images/output/
+*.png
+*.gif
+
+# Ignore OS junk files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files (if any)
+.env
+.venv/
+env/
+venv/
+
+# Ignore matplotlib font cache
+~/.cache/matplotlib/
