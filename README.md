@@ -8,8 +8,12 @@ This project highlights **how his shot volume, locations, and finishing have evo
 - Public match event data: understat.com
 - Player portrait: sofifa.com
 
-## Output
-![Son Shot Map](son_shotmap.gif)
+## Animated Season-by-Season Shot Map 🎥
+
+![Son Seasonal Shot Map](viz/son_seasonal_shot_map.gif)
+
+This animation shows Son Heung-min's non-penalty shots and goals across 10 Premier League seasons (2015–2025).
+
 
 ## Key Takeaways
 - **Consistent Scorer:** Son reached double-digit league goals in 8 of his 10 Premier League seasons. The only exceptions? His debut year and his most recent campaign.
